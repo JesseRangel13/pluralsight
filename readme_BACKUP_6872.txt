@@ -1,11 +1,6 @@
 hello git
 hello again
-<<<<<<< HEAD
 esto fue por branch
 
 feature 2
 feature2 changes
-=======
-
-esto es por fix1
->>>>>>> por fix1
