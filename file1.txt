@@ -1,8 +1,5 @@
 esto es lo que se modifico en git
 esto es para el ejemplo de pull
 esto se hizo local para ejemplo de push
-<<<<<<< HEAD
 adding yet more code
-=======
->>>>>>> 477bc93... added fix1
  fix 1
